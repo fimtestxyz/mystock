@@ -1,7 +1,7 @@
-fund,ticker,industry
-data,SNOW,big data
-data,PLTR,big data
-tech,AMZN,ecommerce
-tech,AAPL,consumer_electronic
-tech,FB,advertisement
-tech,GOOG,advertisement
+fund,company,ticker,industry,sector
+data,SNOWFLAKE,SNOW,big data,AI
+data,PALANTIR Technologies,PLTR,big data,AI
+tech,Amazon,AMZN,ecommerce,cloud
+tech,Apple Inc,AAPL,consumer_electronic,services
+tech,Facebook,FB,advertisement,services
+tech,Google,GOOG,advertisement,services
