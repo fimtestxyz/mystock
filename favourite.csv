@@ -1,6 +1,7 @@
-category,ticker,description
-data,SNOW,snowflake
-data,PLTR,Palantir
-tech,AMZN,Amazon
-tech,AAPL,Apple
-tech,FB,Facebook
+fund,ticker,industry
+data,SNOW,big data
+data,PLTR,big data
+tech,AMZN,ecommerce
+tech,AAPL,consumer_electronic
+tech,FB,advertisement
+tech,GOOG,advertisement
